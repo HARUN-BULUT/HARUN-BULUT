@@ -1,6 +1,4 @@
 ![image](https://github.com/HARUN-BULUT/HARUN-BULUT/assets/146482488/8a7b3060-53f9-4616-a9d9-4e35e4cbdb80)
-https://www.credly.com/badges/45549e05-c6c5-4df1-acf3-cc7d7f477972/linked_in?t=sassbo
-
 
 <h1 align="center">Hi 👋, I'm HARUN BULUT</h1>
 <h3 align="center">AWS Solutions Architect & DevOps Engineer</h3>
